@@ -46,7 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![image](https://github.com/ASHWINKUMAR2903/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119407186/b21f0356-4c54-48f2-af0c-beac08c69e28)
+![image](https://github.com/ASHWINKUMAR2903/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119407186/3fd14391-f7ff-4c69-8545-3fd70b633c8f)
 
 ### Name: A.ASHWIN KUMAR
 ### Register Number: 212222100006
